@@ -32,6 +32,13 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 
 
+
+
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=white-Ovo&theme=chartreuse-dark)](https://git.io/streak-stats)
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/White-Ovo/github-readme-activity-graph -->
