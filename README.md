@@ -34,7 +34,10 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
 
 
 
-<h3>💻 Software </h3>
+<h3>
+  
+  
+  💻 Software </h3>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
