@@ -75,14 +75,13 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+(./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)]([https://youtube.com/codestackr#gh-light-mode-only](https://www.youtube.com/channel/UCvDXfL-QI4a_8vn2q0eFV3w))
-[![website](./img/youtube-dark.svg)]([https://youtube.com/codestackr#gh-dark-mode-only](https://www.youtube.com/channel/UCvDXfL-QI4a_8vn2q0eFV3w))
+(./img/youtube-light.svg)]([https://youtube.com/codestackr#gh-light-mode-only](https://www.youtube.com/channel/UCvDXfL-QI4a_8vn2q0eFV3w))
+(./img/youtube-dark.svg)]([https://youtube.com/codestackr#gh-dark-mode-only](https://www.youtube.com/channel/UCvDXfL-QI4a_8vn2q0eFV3w))
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/christopher-gonzalez-aa47b925b/))
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/christopher-gonzalez-aa47b925b/))
+(./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/christopher-gonzalez-aa47b925b/))
+(./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/christopher-gonzalez-aa47b925b/))
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
