@@ -34,18 +34,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-<h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=white-Ovo&theme=chartreuse-dark)](https://git.io/streak-stats)
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/White-Ovo/github-readme-activity-graph -->
-
-  <a href="https://github.com/white-ovo/github-readme-activity-graph"><img alt="white-OvO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=White-Ovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 <h3>💻 Software and Tools</h3>
 
   <p>
@@ -60,6 +48,24 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+  
+  # # 
+
+
+
+
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=white-Ovo&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/White-Ovo/github-readme-activity-graph -->
+
+  <a href="https://github.com/white-ovo/github-readme-activity-graph"><img alt="white-OvO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=White-Ovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 
 
