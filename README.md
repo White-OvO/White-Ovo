@@ -1,9 +1,7 @@
 
-White-OvO
 
-
-
-
+**`CSN`**
+**`Promineo Tech Studnent`**
 **`BackEnd_Developer`**
 
 I'm a back-end student developer at Promineo Tech. also a crane opreator in the morning for the past 6 years of my life at Interebar. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with the help of my mentors and teachers. My goal is to help people from the situtaions that i went through starting my journey of becoming a backend developer, achieve a career goal on the way. I publish content of my finalized work on my Youtube.
@@ -64,9 +62,11 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
 
   <a href="https://github.com/white-ovo/github-readme-activity-graph"><img alt="white-OvO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=White-Ovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+##
 
-
-
+[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Connect with me:
 
