@@ -1,8 +1,7 @@
-<p style="color:#ff0000;">
-White-OvO</p>
+
+White-OvO
 
 
-<p style="border:1px solid #ff0000;">Sample text</p>
 
 
 **`BackEnd_Developer`**
