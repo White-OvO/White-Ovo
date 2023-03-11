@@ -59,7 +59,7 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/White-Ovo/github-readme-activity-graph -->
-  [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/White-OvO/White-OvO/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/White-OvO/White-OvO/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
  
   <a href="https://github.com/white-ovo/github-readme-activity-graph"><img alt="white-OvO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=White-Ovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
