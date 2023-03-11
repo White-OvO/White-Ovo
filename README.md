@@ -27,11 +27,9 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="LNK" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
 <img align="left" alt="PHOTOSHOP" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="wINDOWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-img align="left" alt="wINDOWS" width="30px" style="padding-right:10px;"  src=https://user-images.githubusercontent.com/120700219/224484296-249bf0cc-31be-4029-a31f-6b75d778b1f9.png
 
 
-
-HEL:LOWORKLD
+#
 
 
 
