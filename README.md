@@ -70,11 +70,5 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
  
   <a href="https://github.com/white-ovo/github-readme-activity-graph"><img alt="white-OvO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=White-Ovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-Conntact me :
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
