@@ -64,6 +64,7 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
  
   <a href="https://github.com/white-ovo/github-readme-activity-graph"><img alt="white-OvO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=White-Ovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+![697b023b-64a5-49a0-8059-27b963453fb1](https://user-images.githubusercontent.com/120700219/224488614-0ecc5f82-6e21-4f31-b229-e94f0c718691.gif)
 
 
 ### Connect with me:
