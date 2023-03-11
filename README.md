@@ -34,7 +34,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-<h3>💻 Software and Tools</h3>
+<h3>💻 Software </h3>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
