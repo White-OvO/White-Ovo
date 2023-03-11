@@ -20,6 +20,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+[<img align="left" alt="Terminal" width="30px" src="./img/terminal-dark.svg" />
 
 
 HEL:LOWORKLD
