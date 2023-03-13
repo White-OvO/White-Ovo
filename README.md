@@ -10,7 +10,7 @@
 
 I'm a back-end student developer at Promineo Tech. also a crane opreator in the morning for the past 6 years of my life at Interebar. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with the help of my mentors and teachers. My goal is to help people from the situtaions that i went through starting my journey of becoming a backend developer, achieve a career goal on the way. I publish content of my finalized work on my Youtube.
 
-# # #
+# # 
 
 ### 🧰 Languages and Tools
 
