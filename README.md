@@ -30,11 +30,11 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
 <img align="left" alt="wINDOWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 
-# # 
-
-
-
 # #
+
+
+
+# 
 
 
 
@@ -57,7 +57,7 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
   
-  # # ##
+  # # #
 
 
 
