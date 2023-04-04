@@ -2,7 +2,16 @@
 
 ![image_processing20190831-7652-3r859d](https://user-images.githubusercontent.com/120700219/224507305-47151139-2049-430e-a57b-eb930ac44f5f.gif)
 
+🕑︎ Time Zone: Asia/Kolkata
 
+💬 Programming Languages: 
+SQL                      0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+DataGrip                 0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
 
 **`CSN`**
 **`Promineo Tech Studnent`**
