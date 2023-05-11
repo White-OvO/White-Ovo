@@ -1,6 +1,7 @@
 
 
-![image_processing20190831-7652-3r859d](https://user-images.githubusercontent.com/120700219/224507305-47151139-2049-430e-a57b-eb930ac44f5f.gif)
+//![image_processing20190831-7652-3r859d](https://user-images.githubusercontent.com/120700219/224507305-47151139-2049-430e-a57b-eb930ac44f5f.gif)
+![image](https://github.com/White-OvO/White-Ovo/assets/120700219/ee5f726e-69fe-4c3c-b072-312e6b0c11f0)
 
  
 **`CSN`**
