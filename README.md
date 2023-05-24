@@ -8,7 +8,7 @@
 **`Promineo Tech Studnent`**
 **`BackEnd_Developer`**
 
-I'm a back-end student developer at Promineo Tech. also a crane opreator in the morning for the past 6 years of my life at Interebar. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with the help of my mentors and teachers. My goal is to help people from the situtaions that i went through starting my journey of becoming a backend developer, achieve a career goal on the way. I publish content of my finalized work on my Youtube.
+I'm A back-end  developer but A crane opreator in the morning for the past 6 years of my life all at the same time, also A college student. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with the help of my mentors and teachers. My goal is to help people from the situtaions that i went through starting my journey of becoming a backend developer, achieve a career goal on the way. I publish content of my finalized work on my Youtube.
 
 # # 
 
@@ -62,7 +62,7 @@ I'm a back-end student developer at Promineo Tech. also a crane opreator in the 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=white-Ovo&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b>
   
   <!-- https://github.com/White-Ovo/github-readme-activity-graph -->
   
