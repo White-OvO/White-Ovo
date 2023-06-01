@@ -4,7 +4,9 @@
 
 
 [comment]: <![da0a8i5-ae6faf7b-220d-4ebd-81eb-87b674e74743](https://github.com/White-OvO/White-Ovo/assets/120700219/6d1a40e2-ced9-4d10-8a25-1dd2561c709f)>
-![4762c3393ad2aadbee5ddf12f0f0c1a93a25a950_hq](https://github.com/White-OvO/White-Ovo/assets/120700219/c2a3c825-ab8c-465c-8852-bac0f023700b)
+[comment]; <![4762c3393ad2aadbee5ddf12f0f0c1a93a25a950_hq](https://github.com/White-OvO/White-Ovo/assets/120700219/c2a3c825-ab8c-465c-8852-bac0f023700b)>
+
+![b508ff140c620063863b23734ea8d05c](https://github.com/White-OvO/White-Ovo/assets/120700219/36061fd5-9efc-4864-a125-cebad7326608)
 
  
 **`CSN`**
