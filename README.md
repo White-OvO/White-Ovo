@@ -1,9 +1,7 @@
 
+ <![image_processing20190831-7652-3r859d](https://user-images.githubusercontent.com/120700219/224507305-47151139-2049-430e-a57b-eb930ac44f5f.gif)>
 
-[comment]: <![image_processing20190831-7652-3r859d](https://user-images.githubusercontent.com/120700219/224507305-47151139-2049-430e-a57b-eb930ac44f5f.gif)>
 
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2Ftraditinal-pikachu-cute-41140%2F&psig=AOvVaw2cppL54fxv075LGQg3PaDK&ust=1690030477731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDH_6Tsn4ADFQAAAAAdAAAAABAE
 
 
 [comment]: <![da0a8i5-ae6faf7b-220d-4ebd-81eb-87b674e74743](https://github.com/White-OvO/White-Ovo/assets/120700219/6d1a40e2-ced9-4d10-8a25-1dd2561c709f)>
