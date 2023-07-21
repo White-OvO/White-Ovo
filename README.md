@@ -9,7 +9,7 @@
 **`Promineo Tech`**
 **`BackEnd_Developer`**
 **`Computer Science`**
-**`Cyber Secuirty'**
+**`Cyber Secuirty`**
 **`Ethical Hacker`**
 
 
