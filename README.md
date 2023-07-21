@@ -73,8 +73,6 @@ i'm A back-end developer but A crane opreator in the mornings<br>for the past 6 
 <img align="left" alt="wINDOWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=White-OvO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=White-OvO&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=White-OvO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
