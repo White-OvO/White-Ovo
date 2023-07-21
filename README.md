@@ -1,10 +1,8 @@
 
- <![image_processing20190831-7652-3r859d](https://user-images.githubusercontent.com/120700219/224507305-47151139-2049-430e-a57b-eb930ac44f5f.gif)>
 
 
 
-
-[comment]: <![da0a8i5-ae6faf7b-220d-4ebd-81eb-87b674e74743](https://github.com/White-OvO/White-Ovo/assets/120700219/6d1a40e2-ced9-4d10-8a25-1dd2561c709f)>
+ <![da0a8i5-ae6faf7b-220d-4ebd-81eb-87b674e74743](https://github.com/White-OvO/White-Ovo/assets/120700219/6d1a40e2-ced9-4d10-8a25-1dd2561c709f)>
 [comment]: <![4762c3393ad2aadbee5ddf12f0f0c1a93a25a950_hq](https://github.com/White-OvO/White-Ovo/assets/120700219/c2a3c825-ab8c-465c-8852-bac0f023700b)>
 
 ![R](https://github.com/White-OvO/White-Ovo/assets/120700219/d2d56220-144a-4382-87a2-249ca12826cd)
