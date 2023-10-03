@@ -2,9 +2,6 @@
 
 
 
- ![da0a8i5-ae6faf7b-220d-4ebd-81eb-87b674e74743](https://github.com/White-OvO/White-Ovo/assets/120700219/6d1a40e2-ced9-4d10-8a25-1dd2561c709f)
-
-
 **`CSN`**
 **`Promineo Tech`**
 **`BackEnd_Developer`**
