@@ -39,7 +39,7 @@
 
 
 # 💫 About Me:
-i'm A back-end developer but A crane opreator in the mornings<br>for the past 6 years  also while completing my computer science degree.<br>All coding projects are built from the ground up, from planning <br>and designing all the way to solving real-life problems<br> with the help of my mentors and teachers. My goal is to help<br> change the way technology implements people and make life easier by understanding<br>and applying to todays economy. I publish content of my finalized work on my Youtube.
+i'm A back-end developer.All coding projects are built from the ground up, from planning <br>and designing all the way to solving real-life problems<br> with the help of my mentors and teachers. My goal is to help<br> change the way technology implements people and make life easier by understanding<br>and applying to todays economy. I publish content of my finalized work on my Youtube.
 
 
 ## 🌐 Socials:
