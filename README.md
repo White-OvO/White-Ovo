@@ -67,10 +67,6 @@ i'm A back-end developer.All coding projects are built from the ground up, from 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=White-OvO&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=White-OvO&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
