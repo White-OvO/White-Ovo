@@ -56,7 +56,7 @@ i'm A back-end developer.All coding projects are built from the ground up, from 
 <img align="left" alt="MAC" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="LNK" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
 <img align="left" alt="PHOTOSHOP" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="wINDOWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="WINDOWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 
 ![](https://github-readme-stats.vercel.app/api?username=White-OvO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
