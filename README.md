@@ -1,12 +1,11 @@
 
 
 
-**`CSN`**
+
 **`Promineo Tech`**
 **`BackEnd_Developer`**
 **`Computer Science`**
-**`Cyber Secuirty`**
-**`Ethical Hacker`**
+
 <i class="fa-brands fa-github"></i>
 
 
