@@ -1,4 +1,4 @@
-[[<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/522bae21-3e06-45d0-a5e1-630dd428f672" />](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgithub&psig=AOvVaw33EF9VAZDtiTlIxxlTUII0&ust=1759371221082000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDChNf2gZADFQAAAAAdAAAAABAt)](https://github.com/da-luce/astroterm/raw/main/assets/SG_2025-01-02.gif)
+[[<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/522bae21-3e06-45d0-a5e1-630dd428f672" />](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgithub&psig=AOvVaw33EF9VAZDtiTlIxxlTUII0&ust=1759371221082000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDChNf2gZADFQAAAAAdAAAAABAt)]
 
 
 
