@@ -83,10 +83,6 @@ I publish finished work on my YouTube channel as I go.
 
 </div>
 
-<!--
-Contribution snake animation — pending: needs the `workflow` OAuth scope granted
-to re-enable the .github/workflows/snake.yml action, then this section can be restored.
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -98,7 +94,6 @@ to re-enable the .github/workflows/snake.yml action, then this section can be re
 </picture>
 
 </div>
--->
 
 <br/>
 
