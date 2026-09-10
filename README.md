@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/White-OvO/White-OvO/main/assets/scizor.svg" width="420" alt="animated Scizor-inspired mascot"/>
+<img src="https://raw.githubusercontent.com/White-OvO/White-OvO/main/assets/pokeball.svg" width="420" alt="animated Poke Ball wiggling as it tries to catch a Pokemon"/>
 
 </div>
 

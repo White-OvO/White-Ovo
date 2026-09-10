@@ -1,0 +1,46 @@
+<svg viewBox="0 0 460 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated wiggling Poke Ball trying to catch a Pokemon">
+  <defs>
+    <radialGradient id="pglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#A9FEF7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ambient sparkles -->
+  <path d="M56 56 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" fill="#FE428E" opacity="0.85">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.85;0.25;0.85" dur="2.6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M402 64 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z" fill="#A9FEF7" opacity="0.8">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 8; 0 0" dur="3.1s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.1s" begin="0.4s" repeatCount="indefinite"/>
+  </path>
+
+  <circle cx="230" cy="140" r="95" fill="url(#pglow)"/>
+
+  <!-- ground shadow -->
+  <ellipse cx="230" cy="214" rx="58" ry="11" fill="#000000" opacity="0.28"/>
+
+  <!-- impact puffs, flash at shake peaks -->
+  <g fill="#C9CBD6">
+    <circle cx="150" cy="206" r="7" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.8;0;0;0.8;0;0;0" keyTimes="0;0.06;0.08;0.14;0.22;0.24;0.3;0.56;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="310" cy="206" r="7" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0.8;0;0;0.8;0;0" keyTimes="0;0.06;0.14;0.16;0.22;0.3;0.46;0.48;0.56;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ball rocks on its base -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 230 210;-16 230 210;0 230 210;16 230 210;0 230 210;-16 230 210;0 230 210;16 230 210;0 230 210;0 230 210" keyTimes="0;0.08;0.16;0.24;0.32;0.4;0.48;0.56;0.64;1" dur="3s" repeatCount="indefinite"/>
+
+    <circle cx="230" cy="140" r="70" fill="#E3350D"/>
+    <path d="M160 140 A70 70 0 0 0 300 140 Z" fill="#F5F5F7"/>
+    <rect x="160" y="133" width="140" height="14" fill="#1B1B1B"/>
+    <circle cx="230" cy="140" r="19" fill="#1B1B1B"/>
+    <circle cx="230" cy="140" r="12.5" fill="#F5F5F7"/>
+    <circle cx="230" cy="140" r="12.5" fill="none" stroke="#1B1B1B" stroke-width="2.5"/>
+    <ellipse cx="210" cy="118" rx="16" ry="9" fill="#FFFFFF" opacity="0.35"/>
+  </g>
+</svg>
