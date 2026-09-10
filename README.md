@@ -13,6 +13,10 @@
 ![Promineo Tech](https://img.shields.io/badge/Promineo%20Tech-6A00F4?style=for-the-badge&logoColor=white)
 ![Computer Science](https://img.shields.io/badge/Computer%20Science-141321?style=for-the-badge&logoColor=white)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/White-OvO/White-OvO/main/assets/mascot.svg" width="420" alt="animated chibi mascot coding at a laptop"/>
+
 </div>
 
 <br/>

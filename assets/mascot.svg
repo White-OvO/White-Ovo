@@ -1,0 +1,97 @@
+<svg viewBox="0 0 460 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated chibi mascot coding at a laptop">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A9FEF7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- floating sparkles -->
+  <g fill="#FE428E">
+    <path d="M60 46 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" opacity="0.85">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;0.25;0.85" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#A9FEF7">
+    <path d="M400 70 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z" opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 8; 0 0" dur="3.1s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.1s" begin="0.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#FE428E">
+    <path d="M385 150 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 z" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -6 -6; 0 0" dur="2.9s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="2.9s" begin="0.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- whole character gently bobs -->
+  <g id="character">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="3.4s" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" repeatCount="indefinite"/>
+
+    <!-- desk -->
+    <rect x="40" y="196" width="320" height="14" rx="4" fill="#1B1533"/>
+    <rect x="40" y="210" width="320" height="8" rx="2" fill="#12102a"/>
+
+    <!-- laptop -->
+    <g>
+      <rect x="150" y="158" width="120" height="44" rx="6" fill="#241C3F" stroke="#3A2F63" stroke-width="2"/>
+      <rect x="158" y="166" width="104" height="28" rx="3" fill="#0F0C29"/>
+      <rect x="163" y="171" width="46" height="4" rx="2" fill="#A9FEF7">
+        <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="163" y="179" width="70" height="4" rx="2" fill="#FE428E">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" begin="0.3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="163" y="187" width="34" height="4" rx="2" fill="#A9FEF7">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="245" cy="180" r="20" fill="url(#glow)"/>
+    </g>
+
+    <!-- body / hoodie -->
+    <path d="M120 200 q0 -46 40 -46 h20 q40 0 40 46 z" fill="#211A3D"/>
+    <rect x="176" y="160" width="8" height="40" fill="#A9FEF7" opacity="0.6"/>
+    <path d="M170 168 l10 12 10 -12" fill="none" stroke="#12102a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- resting arm -->
+    <rect x="130" y="176" width="34" height="16" rx="8" fill="#2b2352"/>
+
+    <!-- waving arm -->
+    <g transform-origin="200 168">
+      <animateTransform attributeName="transform" type="rotate" values="-8;18;-8" dur="1.8s" repeatCount="indefinite"/>
+      <rect x="196" y="128" width="15" height="42" rx="7" fill="#2b2352"/>
+      <circle cx="203" cy="126" r="9" fill="#FFE0C7"/>
+    </g>
+
+    <!-- head -->
+    <g>
+      <ellipse cx="150" cy="118" rx="46" ry="42" fill="#2B1055"/>
+      <circle cx="150" cy="122" r="38" fill="#FFE0C7"/>
+
+      <!-- hair fringe -->
+      <path d="M112 108 q6 -34 38 -36 q34 -2 40 30 q-14 -12 -30 -10 q6 -14 -8 -18 q-4 14 -18 12 q-10 -10 -18 0 q4 10 -4 22 z" fill="#3A1C71"/>
+      <path d="M170 92 l14 10 -16 4 z" fill="#A9FEF7" opacity="0.85"/>
+
+      <!-- blush -->
+      <circle cx="126" cy="132" r="6" fill="#FE428E" opacity="0.35"/>
+      <circle cx="174" cy="132" r="6" fill="#FE428E" opacity="0.35"/>
+
+      <!-- eyes (blink) -->
+      <g>
+        <ellipse cx="134" cy="120" rx="7" ry="9" fill="#12102a">
+          <animate attributeName="ry" values="9;9;0.5;9;9" keyTimes="0;0.86;0.9;0.94;1" dur="4s" repeatCount="indefinite"/>
+        </ellipse>
+        <circle cx="132" cy="117" r="2" fill="#A9FEF7"/>
+        <ellipse cx="166" cy="120" rx="7" ry="9" fill="#12102a">
+          <animate attributeName="ry" values="9;9;0.5;9;9" keyTimes="0;0.86;0.9;0.94;1" dur="4s" repeatCount="indefinite"/>
+        </ellipse>
+        <circle cx="164" cy="117" r="2" fill="#A9FEF7"/>
+      </g>
+
+      <!-- mouth -->
+      <path d="M143 138 Q150 144 157 138" fill="none" stroke="#12102a" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
