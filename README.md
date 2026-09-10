@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/White-OvO/White-OvO/main/assets/mascot.svg" width="420" alt="animated chibi mascot coding at a laptop"/>
+<img src="https://raw.githubusercontent.com/White-OvO/White-OvO/main/assets/scizor.svg" width="420" alt="animated Scizor-inspired mascot"/>
 
 </div>
 
@@ -81,6 +81,9 @@ I publish finished work on my YouTube channel as I go.
 ![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-141321?style=for-the-badge&logo=robotframework&logoColor=A9FEF7)
 
 </div>
 
