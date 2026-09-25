@@ -23,8 +23,7 @@
 
 ## 💫 About Me
 
-I'm a back-end developer. All of my coding projects are built from the ground up — from planning
-and designing all the way to solving real-life problems — with the help of my mentors and
+I'm a back-end developer. From planning and designing all the way to solving real-life problems — with the help of my mentors and
 teachers. My goal is to help change the way technology reaches people, and make life easier by
 understanding today's economy and building for it.
 
